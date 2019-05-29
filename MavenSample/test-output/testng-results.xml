@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18271" started-at="2019-05-21T04:55:39Z" finished-at="2019-05-21T04:55:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18271" started-at="2019-05-21T04:55:39Z" finished-at="2019-05-21T04:55:57Z">
+      <class name="MavenSample.curieapp">
+        <test-method status="PASS" signature="curie()[pri:0, instance:MavenSample.curieapp@f6c48ac]" name="curie" duration-ms="18249" started-at="2019-05-21T10:25:39Z" finished-at="2019-05-21T10:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- curie -->
+      </class> <!-- MavenSample.curieapp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
